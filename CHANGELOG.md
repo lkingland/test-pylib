@@ -15,6 +15,15 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Fixed
 ### Security
 
+## [0.1.2] - 2024-10-18
+
+### Added
+- Publishes package on tag pushes to main
+
+### Added
+- Initial implementation of a Hello World library
+- Repository metadata LICENSE, README, etc
+
 ## [0.1.1] - 2024-10-18
 
 ### Added
