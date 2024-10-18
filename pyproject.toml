@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lkingland-test-pylib"
-version = "0.1.1"
+version = "0.1.2"
 description = "Test Python Library"
 authors = ["Luke Kingland <luke@lukekingland.com>"]
 readme = "README.md"
