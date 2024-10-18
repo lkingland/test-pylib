@@ -9,5 +9,14 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ## [Unreleased]
 
 ### Added
+### Changed
+### Deprecated
+### Removed
+### Fixed
+### Security
+
+## [0.1.1] - 2024-10-18
+
+### Added
 - Initial implementation of a Hello World library
 - Repository metadata LICENSE, README, etc
