@@ -9,13 +9,16 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ## [Unreleased]
 
 ### Added
-- Adds documentation for the development/release process
-
 ### Changed
 ### Deprecated
 ### Removed
 ### Fixed
 ### Security
+
+## [0.1.3] - 2024-10-22
+
+### Added
+- Documentation for the development/release process
 
 ## [0.1.2] - 2024-10-18
 
